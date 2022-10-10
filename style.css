@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 10px;
+}
+
+h1{
+   text-align: justify;
+   margin-left: 500px; 
+}
+
+p{
+    margin-left: 500px;
+}
+
+.bmi{
+    margin: 20px 20px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+}
+
+#calculate{
+    background-color: rgb(112, 112, 199);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 500px;
+    font: bold;
+    border: none;
+}
+
